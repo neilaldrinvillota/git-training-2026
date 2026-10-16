@@ -1,2 +1,3 @@
-# git-training-2026
-My practice repo for Git Training 2026
+# Git Training 2026
+Name: Neil Aldrin Villota
+Date: Started: October 16, 2026
